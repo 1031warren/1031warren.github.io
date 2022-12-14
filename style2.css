@@ -1,0 +1,25 @@
+body{
+    background-color: forestgreen;
+    color: yellow; 
+}
+
+#chgTextcolor{
+    color: red;
+
+}
+
+header{
+    text-align: center;
+}
+nav{
+    height: 600px;
+    width: 120px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+
+}
+
+footer{
+    text-align: center; 
+}
